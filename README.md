@@ -8,11 +8,9 @@ The objective is to help telecom companies identify customers at risk of leaving
 
 ## Live Demo
 
-🔗 Streamlit App:
-https://customer-churn-prediction-platform-xcbsdvu6bwhmsvde8vsv55.streamlit.app/
+🔗 Streamlit App: [Open Application](https://customer-churn-prediction-platform-xcbsdvu6bwhmsvde8sv55.streamlit.app)
 
-🔗 GitHub Repository:
-https://github.com/KunduruPavankumarreddy/customer-churn-prediction-platform
+🔗 GitHub Repository: [View Source Code](https://github.com/KunduruPavankumarreddy/customer-churn-prediction-platform)
 
 ## Project Highlights
 
