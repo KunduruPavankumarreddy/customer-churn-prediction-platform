@@ -6,6 +6,14 @@ This project predicts whether a telecom customer is likely to churn using Machin
 
 The objective is to help telecom companies identify customers at risk of leaving and take proactive retention measures.
 
+## Live Demo
+
+🔗 Streamlit App:
+https://customer-churn-prediction-platform-xcbsdvu6bwhmsvde8vsv55.streamlit.app/
+
+🔗 GitHub Repository:
+https://github.com/KunduruPavankumarreddy/customer-churn-prediction-platform
+
 ## Project Highlights
 
 - Built an end-to-end Customer Churn Prediction Platform.
