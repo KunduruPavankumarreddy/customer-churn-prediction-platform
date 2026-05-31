@@ -133,11 +133,11 @@ SHAP (SHapley Additive exPlanations) was used to understand the factors influenc
 
 ### Top Factors Increasing Churn
 
-![SHAP Positive Factors](reports/images/shap_positive_factors.png)
+![SHAP Positive Factors](reports/images/shap_positive_factors.png.png)
 
 ### Top Factors Reducing Churn
 
-![SHAP Negative Factors](reports/images/shap_negative_factors.png)
+![SHAP Negative Factors](reports/images/shap_negative_factors.png.png)
 
 ### Key Findings
 
