@@ -6,7 +6,15 @@ This project predicts whether a telecom customer is likely to churn using Machin
 
 The objective is to help telecom companies identify customers at risk of leaving and take proactive retention measures.
 
----
+## Project Highlights
+
+- Built an end-to-end Customer Churn Prediction Platform.
+- Performed data cleaning, EDA, feature engineering, and model optimization.
+- Evaluated Logistic Regression, Random Forest, and XGBoost models.
+- Improved churn recall through class balancing and hyperparameter tuning.
+- Used SHAP for model explainability.
+- Developed an interactive Streamlit application for real-time churn prediction.
+- Achieved 77% accuracy and 74% recall using an Optimized Random Forest model.
 
 ## Technologies Used
 
