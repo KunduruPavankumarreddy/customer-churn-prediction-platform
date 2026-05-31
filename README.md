@@ -53,7 +53,7 @@ Target Variable:
 
 ### Churn Distribution
 
-![Churn Distribution](reports/images/churn_distribution.png.jpg)
+![Churn Distribution](reports/images/churn_distribution.png)
 
 **Insight:**
 
@@ -62,7 +62,7 @@ Target Variable:
 
 ### Contract Type vs Churn
 
-![Contract vs Churn](reports/images/contract_vs_churn.png.jpg)
+![Contract vs Churn](reports/images/contract_vs_churn.png)
 
 **Insight:**
 
@@ -71,7 +71,7 @@ Target Variable:
 
 ### Internet Service vs Churn
 
-![Internet Service vs Churn](reports/images/internet_service_vs_churn.png.png)
+![Internet Service vs Churn](reports/images/internet_service_vs_churn.png)
 
 **Insight:**
 
@@ -80,7 +80,7 @@ Target Variable:
 
 ### Correlation Heatmap
 
-![Correlation Heatmap](reports/images/correlation_heatmap.png.png)
+![Correlation Heatmap](reports/images/correlation_heatmap.png)
 
 **Insight:**
 
@@ -118,7 +118,7 @@ The following machine learning models were evaluated:
 
 ### Confusion Matrix
 
-![Confusion Matrix](reports/images/confusion_matrix_heatmap.png.jpg)
+![Confusion Matrix](reports/images/confusion_matrix_heatmap.png)
 
 **Insight:**
 
